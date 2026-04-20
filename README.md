@@ -1,7 +1,7 @@
 # Automated Z-Scan & Optical Calibration System
 ### Python Interface for Thorlabs Cameras & Aerotech Nanopositioners
 
-> Developed by **Shazib Ullah** — January 2026
+> Developed by **Nouman Ahmad** — January 2026
 
 ---
 
@@ -121,16 +121,9 @@ matplotlib
 pyueye
 automation1
 ```
-
----
-
-## Presentation
-
-The full project presentation is available in [`docs/presentation.pdf`](docs/presentation.pdf).
-
 ---
 
 ## Author
 
-**Shazib Ullah**  
+**Nouman Ahmad**  
 Automated Z-Scan Control System — January 2026
